@@ -1,2 +1,2 @@
-# World_Of_Games
+# world_of_games
 Devops Experts Project
